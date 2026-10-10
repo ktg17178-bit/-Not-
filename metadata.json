@@ -1,0 +1,6 @@
+{
+  "name": "Project Workspace",
+  "description": "An interactive web application ready to be customized to your needs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
